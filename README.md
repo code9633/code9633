@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Shashika Udara</h1>
 <h3 align="center">I am a Undergraduate student and I am willing to do predictions.</h3>
-<img align = "right" alt= "coding" src="https://i.gifer.com/9Ybk.gif" width="480" height="296" frameBorder="0"></img>
+<img align = "right" src="https://i.gifer.com/9Ybk.gif" width="480" height="296"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code9633&label=Profile%20views&color=0e75b6&style=flat" alt="code9633" /> </p>
 
