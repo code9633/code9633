@@ -1,4 +1,4 @@
-<img src= "https://media.tenor.com/Lbfyti3y8UkAAAAC/machine-learning-artificial-intelligence.gif"  frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<img src= "https://media.tenor.com/Lbfyti3y8UkAAAAC/machine-learning-artificial-intelligence.gif"  frameBorder="0" width= "300%" class="giphy-embed" allowFullScreen></img>
 
 <h1 align="center">Hi 👋, I'm Shashika Udara</h1>
 <h3 align="center">I am a Undergraduate student and I am willing to do Artificila Inteligent things.</h3>
