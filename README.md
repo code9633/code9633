@@ -1,4 +1,4 @@
-<img src="https://giphy.com/embed/iPj5oRtJzQGxwzuCKV" width="480" height="270"   frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<img src="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/main/assets/nn_gumgum.gif" width="1600" height="588"   frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 <h1 align="center">Hi 👋, I'm Shashika Udara</h1>
 <h3 align="center">I am a Undergraduate student and I am willing to do Artificila Inteligent things.</h3>
