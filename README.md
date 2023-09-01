@@ -1,7 +1,7 @@
-<img src="https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=2147483647&v=beta&t=Kf7YAuwZtyCGYLNch-Mgc5eOC-7h7uL_dnBAIgsAFRQ"  frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<img src= "https://media.tenor.com/Lbfyti3y8UkAAAAC/machine-learning-artificial-intelligence.gif"  frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 <h1 align="center">Hi 👋, I'm Shashika Udara</h1>
-<h3 align="center">I am a Undergraduate student and I am willing to do predictions.</h3>
+<h3 align="center">I am a Undergraduate student and I am willing to do Artificila Inteligent things.</h3>
 <img align = "right" src="https://i.gifer.com/9Ybk.gif" width="480" height="296"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code9633&label=Profile%20views&color=0e75b6&style=flat" alt="code9633" /> </p>
