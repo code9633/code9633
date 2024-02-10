@@ -1,5 +1,3 @@
-<img src="https://miro.medium.com/v2/resize:fit:828/1*KujUJuDRV-4XUKZF4UDiPg.gif" width="800" height="350"  align = "center" frameBorder="0" class="giphy-embed" allowFullScreen></img>
-
 <h1 align="center">Hi 👋, I'm Shashika Udara</h1>
 <h3 align="center">I am a Undergraduate student and I am willing to do Artificial Inteligent things.</h3>
 <img align = "right" src="https://i.gifer.com/9Ybk.gif" width="480" height="296"></img>
