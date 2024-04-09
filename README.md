@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shashika Udara</h1>
-<h3 align="center">I am a Undergraduate student and I am willing to do Artificial Inteligent things.</h3>
-<img align = "right" src="https://i.gifer.com/9Ybk.gif" width="480" height="296"></img>
+<h2 align="center"><b>I'm an Computer Science student at SUSL, specializing in Computer Scicnce. I'm proficient in machine learning and back end software development. Currently I'm learning React, Java and Python in the hopes of becoming a full-stack developer, bakcend developer, machine learning engineer and making my own startup one day!,/b></h2>
+<img align = "right" src="https://i.gifer.com/9Ybk.gif](https://w.wallhaven.cc/full/5w/wallhaven-5w8qg1.jpg" width="480" height="296"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code9633&label=Profile%20views&color=0e75b6&style=flat" alt="code9633" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shashika udara" target="blank"><img src="https://img.shields.io/twitter/follow/shashika udara?logo=twitter&style=for-the-badge" alt="shashika udara" /></a> </p>
 
-- 🌱 I’m currently learning **Data science, Machine Learning and Deep Learning**
+- 🌱 I’m currently learning **Data science, Machine Learning, Java, Python, React**
 
-- 💬 Ask me about **python, SQL, R**
+- 💬 Ask me about **Python, SQL, Java, React**
 
 - 📫 How to reach me **shashikaudara6@gmail.com**
 
